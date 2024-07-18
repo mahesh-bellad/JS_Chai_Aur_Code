@@ -24,7 +24,7 @@ console.log(typeof state);
  3) string => ""
  4) boolean => True/False
  5) null => Standalone value
- 6) undefined =>
+ 6) undefined => Not initialized
  7) symbol => unique
 
 
