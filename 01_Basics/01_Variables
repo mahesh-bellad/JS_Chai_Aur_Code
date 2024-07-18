@@ -12,3 +12,5 @@ console.log(accountCity);
 console.log(accountState);
 
 console.table([accountName, accountCity, accountState]);
+console.table([accountName, accountCity, accountState]);
+console.table([accountName, accountCity, accountState]);
