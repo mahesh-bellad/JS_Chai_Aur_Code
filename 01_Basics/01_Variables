@@ -1,0 +1,14 @@
+const accountID = 1234;
+let accountName = "Mahesh";
+var accountCity = "Bangalore";
+accountState = "Karnataka";
+
+accountName = "Mahesh Bellad";
+accountCity = "Bangaluru";
+accountState = "KAR";
+ 
+console.log(accountName);
+console.log(accountCity);
+console.log(accountState);
+
+console.table([accountName, accountCity, accountState]);
