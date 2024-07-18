@@ -21,18 +21,4 @@ console.table([accountName, accountCity, accountState]);
 console.table([accountName, accountCity, accountState]);
 console.table([accountName, accountCity, accountState]);
 
-
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
-console.table([accountName, accountCity, accountState]);
+ 
